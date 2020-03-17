@@ -1,6 +1,6 @@
 ## Simple COVID-19 Statistics Checker
 
-Steps to run
+Steps to run:
 
 1. Clone the repo
 2. Run PHP file
